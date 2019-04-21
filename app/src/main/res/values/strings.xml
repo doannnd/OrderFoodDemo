@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OrderFoodDemo</string>
+    <string name="slogan_text">No matter where you are: whether you at home, or in the office, or
+     on the beach - we wil find you and we will feed you</string>
+    <string name="logo_image_view">logo image view</string>
+    <string name="sign_up_button_text">sign up</string>
+    <string name="sign_in_button_text">Sign in</string>
+    <string name="hint_phone">phone</string>
+    <string name="hint_password">password</string>
+    <string name="hint_name">name</string>
+</resources>
